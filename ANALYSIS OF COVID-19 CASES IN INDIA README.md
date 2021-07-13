@@ -10,7 +10,7 @@ Table of Content-:
 
 
 
-1. REASON TO CHOOSE THIS PROJECT:
+REASON TO CHOOSE THIS PROJECT:
 
 The COVID-19 pandemic has led to a dramatic loss of human life worldwide and presents an unprecedented challenge to public health. 
 Millions of enterprises, agricultural workers and many more in our country face an existential threat.
@@ -18,7 +18,7 @@ Through this project I want to analyze the current situation of different states
 
 
 
-2. WORKDONE:
+WORKDONE:
 
 * Reading the dataset, which represents the current status of COVID-19.
 
@@ -42,7 +42,7 @@ Through this project I want to analyze the current situation of different states
 
 
 
-3)CONCLUSION: 
+CONCLUSION: 
 
 * From analysis I have concluded, currently Maharashtra state is having the highest number of covid cases along with the higest death and cured cases compared to other states.
 
@@ -62,7 +62,7 @@ Through this project I want to analyze the current situation of different states
 
 
 
-4) RESULT:
+RESULT:
 
 In year 2020 Karnataka was higest with COVID-19 cases with most of Male patient with age 30 and the Corona virus was spread mainly through domestic travel.
 Currently Maharashtra state is the higest with COVID-19 cases.  
